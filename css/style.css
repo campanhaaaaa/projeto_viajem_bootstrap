@@ -5,3 +5,10 @@
 .w{
     width:80%;
 }
+
+.efeito:hover{
+    transform: scale(1.0);
+    box-shadow: 2px 3px 5px 3px; 
+    background-color: #f1e9e95a;
+
+}
